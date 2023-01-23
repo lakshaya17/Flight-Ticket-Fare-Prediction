@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a complete ML project on Flight Ticket Fare Prediction to predict the domestic flight prices in India depending on various features which is deployed as a Flask Web Application on [Heroku](https://flightfareticketprediction.herokuapp.com/) and [Microsoft Azure](https://flightfareprediction.azurewebsites.net/).
+This is a complete ML project on Flight Ticket Fare Prediction to predict the domestic flight prices in India depending on various features which is deployed as a Flask Web Application on [Render](https://flightticketfareprediction-com.onrender.com/).
 
 ### Dataset
 
